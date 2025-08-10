@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #f4f4f4; /* A light grey background */
-    color: #a00fd0;
+    background-color: hsl(60, 98%, 47%); /* A light grey background */
+    color: hsl(285, 87%, 44%);
 }
 
 h1 {
-    color: #00b318;
+    color: hsl(128, 100%, 35%);
 }
 
 p {
